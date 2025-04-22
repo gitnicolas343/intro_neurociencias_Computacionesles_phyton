@@ -1,0 +1,2 @@
+# intro_neurociencias_Computacionesles_phyton
+simulaciones de clase de neurociencias computacionales
