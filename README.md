@@ -1,4 +1,4 @@
-# intro_neurociencias_Computacionesles_phyton
+# introduccion_a_las_neurociencias_Computacionesles_phyton
 🧠 Neurociencias Computacionales – Proyecto de Curso
 Este repositorio contiene simulaciones realizadas como parte del curso de Neurociencias Computacionales en la Universidad Nacional de Colombia.
 
